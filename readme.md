@@ -1,7 +1,7 @@
-This tutorial was built on solidity 0.4.11
+This tutorial was built on solidity 0.4.11.
 The code base and detail instructions can be found in the following links:
 
-https://www.youtube.com/watch?v=3681ZYbDSSk&feature=youtu.be&t=8m53s
+https://www.youtube.com/watch?v=3681ZYbDSSk&feature=youtu.be&t=8m53s   || and || 
 https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial
 
 I have just made it compatible to the latest version of solidity and very minor ui change (till date: 3/12/2019)
